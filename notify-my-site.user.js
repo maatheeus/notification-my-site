@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Notification My Site
 // @namespace    http://matheushenrique.dev/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Notification in Site
 // @author       Matheus
 // @updateURL    https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.user.js
@@ -73,7 +73,7 @@
 
             if(numero == 0){
               $A.get('e.force:refreshView').fire();
-              console.log("atualizou");
+              console.log("atualizou velho");
             }
 
 
