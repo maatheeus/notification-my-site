@@ -73,7 +73,7 @@
 
             if(numero == 0){
               $A.get('e.force:refreshView').fire();
-              console.log("atualizou velho");
+              console.log("atualizou");
             }
 
 
