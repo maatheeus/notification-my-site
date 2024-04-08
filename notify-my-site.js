@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Notification My Site
 // @namespace    http://matheushenrique.dev/
-// @version      2024-04-08
+// @version      1.0.0
 // @description  Notification in Site
 // @author       Matheus
 // @updateURL    https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.js
