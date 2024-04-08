@@ -4,6 +4,8 @@
 // @version      2024-04-08
 // @description  Notification in Site
 // @author       Matheus
+// @updateURL    https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.js
+// @downloadURL  https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.js
 // @match        https://myhonda.my.site.com/leads/s/lead/Lead/Default
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=site.com
 // @grant        none
