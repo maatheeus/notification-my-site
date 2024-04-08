@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Notification My Site
 // @namespace    http://matheushenrique.dev/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Notification in Site
 // @author       Matheus
-// @updateURL    https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.js
-// @downloadURL  https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.js
+// @updateURL    https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.user.js
+// @downloadURL  https://raw.githubusercontent.com/maatheeus/notification-my-site/main/notify-my-site.user.js
 // @match        https://myhonda.my.site.com/leads/s/lead/Lead/Default
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=site.com
 // @grant        none
