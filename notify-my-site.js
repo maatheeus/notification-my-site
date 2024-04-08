@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Notification My Site
+// @namespace    http://matheushenrique.dev/
 // @version      2024-04-08
-// @description  try to take over the world!
-// @author       You
+// @description  Notification in Site
+// @author       Matheus
 // @match        https://myhonda.my.site.com/leads/s/lead/Lead/Default
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=site.com
 // @grant        none
